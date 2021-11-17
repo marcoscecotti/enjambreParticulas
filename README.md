@@ -1,4 +1,4 @@
-# enjambreParticulas
+# Enjambre de partículas
 Algoritmo de optimización por enjambre de partículas para el mejor global.
 
 Se utiliza para encontrar el mínimo global de una función, al igual que como se hizo con el algoritmo genético. Comparando los tiempos de ejecución, el algoritmo genético
